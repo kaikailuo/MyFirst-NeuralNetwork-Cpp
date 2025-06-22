@@ -1,0 +1,2 @@
+Before training: 0.836743 
+After training: 0.505402 

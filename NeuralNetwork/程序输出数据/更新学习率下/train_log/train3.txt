@@ -1,0 +1,225 @@
+epoch: 0
+input data: 0.1£¬0.2£¬0.3£¬
+target: 0£¬
+output: 0.595922
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 0
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.761444
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 0
+input data: 0.15£¬0.25£¬0.1£¬
+target: 0£¬
+output: 0.580405
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 0
+input data: 0.1£¬0.1£¬0.1£¬
+target: 0£¬
+output: 0.548351
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 0
+input data: 0.2£¬0.3£¬0.2£¬
+target: 0£¬
+output: 0.611067
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 0
+input data: 0.3£¬0.4£¬0.3£¬
+target: 0£¬
+output: 0.655256
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 0
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.758975
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 0
+input data: 0.6£¬0.7£¬0.8£¬
+target: 1£¬
+output: 0.793579
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 0
+input data: 0.7£¬0.8£¬0.9£¬
+target: 1£¬
+output: 0.824856
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.1£¬0.2£¬0.3£¬
+target: 0£¬
+output: 0.601329
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.773697
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.15£¬0.25£¬0.1£¬
+target: 0£¬
+output: 0.583753
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.1£¬0.1£¬0.1£¬
+target: 0£¬
+output: 0.550966
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.2£¬0.3£¬0.2£¬
+target: 0£¬
+output: 0.616686
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.3£¬0.4£¬0.3£¬
+target: 0£¬
+output: 0.663757
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.773697
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.6£¬0.7£¬0.8£¬
+target: 1£¬
+output: 0.807506
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 100
+input data: 0.7£¬0.8£¬0.9£¬
+target: 1£¬
+output: 0.837325
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.1£¬0.2£¬0.3£¬
+target: 0£¬
+output: 0.601329
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.773697
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.15£¬0.25£¬0.1£¬
+target: 0£¬
+output: 0.583753
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.1£¬0.1£¬0.1£¬
+target: 0£¬
+output: 0.550966
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.2£¬0.3£¬0.2£¬
+target: 0£¬
+output: 0.616686
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.3£¬0.4£¬0.3£¬
+target: 0£¬
+output: 0.663757
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.773697
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.6£¬0.7£¬0.8£¬
+target: 1£¬
+output: 0.807506
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 200
+input data: 0.7£¬0.8£¬0.9£¬
+target: 1£¬
+output: 0.837325
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.1£¬0.2£¬0.3£¬
+target: 0£¬
+output: 0.601329
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.773697
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.15£¬0.25£¬0.1£¬
+target: 0£¬
+output: 0.583753
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.1£¬0.1£¬0.1£¬
+target: 0£¬
+output: 0.550966
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.2£¬0.3£¬0.2£¬
+target: 0£¬
+output: 0.616686
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.3£¬0.4£¬0.3£¬
+target: 0£¬
+output: 0.663757
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.773697
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.6£¬0.7£¬0.8£¬
+target: 1£¬
+output: 0.807506
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 300
+input data: 0.7£¬0.8£¬0.9£¬
+target: 1£¬
+output: 0.837325
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.1£¬0.2£¬0.3£¬
+target: 0£¬
+output: 0.601329
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.773697
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.15£¬0.25£¬0.1£¬
+target: 0£¬
+output: 0.583753
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.1£¬0.1£¬0.1£¬
+target: 0£¬
+output: 0.550966
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.2£¬0.3£¬0.2£¬
+target: 0£¬
+output: 0.616686
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.3£¬0.4£¬0.3£¬
+target: 0£¬
+output: 0.663757
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.5£¬0.6£¬0.7£¬
+target: 1£¬
+output: 0.773697
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.6£¬0.7£¬0.8£¬
+target: 1£¬
+output: 0.807506
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+epoch: 400
+input data: 0.7£¬0.8£¬0.9£¬
+target: 1£¬
+output: 0.837325
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
